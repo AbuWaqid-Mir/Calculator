@@ -45,7 +45,7 @@ The program validates user input, stores calculations in a text file, and allows
 
 ### Screenshots
 <img width= "400" height="650" alt="image" src="https://github.com/user-attachments/assets/77b8c59c-c9b5-4676-84d4-4718877bba2d" />    
-<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/9ae2e144-c840-42c1-becd-e3a2236f9915" />
+<img width="370" height="650" alt="image" src="https://github.com/user-attachments/assets/9ae2e144-c840-42c1-becd-e3a2236f9915" />
 
 
 
