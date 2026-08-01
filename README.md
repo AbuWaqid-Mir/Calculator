@@ -44,8 +44,8 @@ The program validates user input, stores calculations in a text file, and allows
 7. Exit the program using the menu option when finished
 
 ### Screenshots
-<img width= "400" height="850" alt="image" src="https://github.com/user-attachments/assets/77b8c59c-c9b5-4676-84d4-4718877bba2d" />    
-<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/9ae2e144-c840-42c1-becd-e3a2236f9915" />
+<img width= "400" height="800" alt="image" src="https://github.com/user-attachments/assets/77b8c59c-c9b5-4676-84d4-4718877bba2d" />    
+<img width="400" height="830" alt="image" src="https://github.com/user-attachments/assets/9ae2e144-c840-42c1-becd-e3a2236f9915" />
 
 
 
