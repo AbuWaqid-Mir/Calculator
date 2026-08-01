@@ -1,3 +1,4 @@
+# Calculator
 ### Overview
 A command-line calculator programmed in Python.  
 The program validates user input, stores calculations in a text file, and allows users to view or clear their previous calculations.  
