@@ -47,8 +47,7 @@ The program validates user input, stores calculations in a text file, and allows
 ### Screenshots
 <img width= "400" height="650" alt="image" src="https://github.com/user-attachments/assets/77b8c59c-c9b5-4676-84d4-4718877bba2d" />    
 <img width="370" height="650" alt="image" src="https://github.com/user-attachments/assets/9ae2e144-c840-42c1-becd-e3a2236f9915" />
-<img width="456" height="313" alt="image" src="https://github.com/user-attachments/assets/269149b4-227d-4fb9-ba04-e194cb8f14ff" />
-<img width="380" height="163" alt="image" src="https://github.com/user-attachments/assets/9540a244-b5a2-4da8-ae06-c1f6f5a8f5de" />
+<img width="456" height="313" alt="image" src="https://github.com/user-attachments/assets/269149b4-227d-4fb9-ba04-e194cb8f14ff" />  <img width="380" height="163" alt="image" src="https://github.com/user-attachments/assets/9540a244-b5a2-4da8-ae06-c1f6f5a8f5de" />
 
 ### Future Developments
 1. Previous Answers feature
