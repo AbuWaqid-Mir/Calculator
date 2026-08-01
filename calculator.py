@@ -78,7 +78,7 @@ def select_choice():
         elif feature == "9":
             end()
         else:
-            print("Invalid option - choose between 1-8")
+            print("Invalid option - choose between 1-9")
 
 # Addition Function
 def add():
